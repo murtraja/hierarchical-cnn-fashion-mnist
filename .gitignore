@@ -3,3 +3,4 @@ tb_log_vgg16_hierarchy_dynamic/
 vgg16_weights_tf_dim_ordering_tf_kernels.h5
 .ipynb_checkpoints/
 vgg16_weights_hierarchy_dynamic/
+*.h5
